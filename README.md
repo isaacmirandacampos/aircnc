@@ -1,1 +1,1 @@
-![alt text](https://raw.githubusercontent.com/isaacmirandacampos/aircnc/telas-mobile/01-login.png)
+![alt text](https://github.com/isaacmirandacampos/aircnc/blob/master/telas-mobile/01-login.png)
