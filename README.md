@@ -10,4 +10,4 @@
 Esse projeto foi feito na semana do OmniStack 9.0 com a orientação do Diego, membro da RocketSeat.
 
 # Tecnologias
-Javascript, Node.js, React, React-Native
+Javascript, Node.js, ReactJS, React-Native
